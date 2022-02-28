@@ -4,7 +4,6 @@ exports[`eslint-config-tknf-typescript should match snapshot: env 1`] = `
 Object {
   "browser": true,
   "es6": true,
-  "jest/globals": true,
   "node": true,
 }
 `;

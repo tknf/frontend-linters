@@ -3,8 +3,7 @@ module.exports = {
   env: {
     es6: true,
     browser: true,
-    node: true,
-    "jest/globals": true
+    node: true
   },
   globals: {
     flushPromises: true
