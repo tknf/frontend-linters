@@ -32,16 +32,7 @@ module.exports = {
     "arrow-body-style": ["off"],
     "arrow-parens": ["warn", "always"],
     "class-method-use-this": "off",
-    "comma-dangle": [
-      "error",
-      {
-        arrays: "always-multiline",
-        objects: "always-multiline",
-        imports: "always-multiline",
-        exports: "always-multiline",
-        functions: "never"
-      }
-    ],
+    "comma-dangle": ["error", "never"],
     "consistent-return": "off",
     "constructor-super": "error",
     "dot-notation": "warn",

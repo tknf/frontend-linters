@@ -238,13 +238,7 @@ Object {
   ],
   "comma-dangle": Array [
     "error",
-    Object {
-      "arrays": "always-multiline",
-      "exports": "always-multiline",
-      "functions": "never",
-      "imports": "always-multiline",
-      "objects": "always-multiline",
-    },
+    "never",
   ],
   "comma-spacing": Array [
     "off",
