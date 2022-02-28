@@ -1,0 +1,44 @@
+{
+  "name": "@tknf/eslint-config-typescript",
+  "description": "ESLint configuration for TKNF frontend with Typescript",
+  "version": "1.0.0",
+  "author": "Tasuku Kuribayashi <kuribayashi@tknf.net>",
+  "repository": {
+    "url": "https://github.com/tknf/frontend-linters",
+    "directory": "packages/eslint-config-tknf-typescript"
+  },
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/tknf/frontend-linters",
+  "keywords": [
+    "eslint"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "typescript": ">=4.0.0 < 4.6.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.29.2",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "devDependencies": {
+    "enhanced-resolve": "^5.9.1"
+  },
+  "jest": {
+    "resolver": "./export-maps-resolver.js"
+  }
+}
