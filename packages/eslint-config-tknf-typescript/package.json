@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-tknf-typescript",
   "description": "ESLint configuration for TKNF frontend with Typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Tasuku Kuribayashi <kuribayashi@tknf.net>",
   "repository": {
     "url": "https://github.com/tknf/frontend-linters",
