@@ -3,6 +3,7 @@
 ### 🎉 New Feature
 - First release
 - Rename packages
+- `@typescript-eslint/no-floating-promises` rule to default
 #### Committers
 - Tasuku Kuribayashi([@mast1ff](https://github.com/mast1ff))
 ### 💥 Breaking Change
