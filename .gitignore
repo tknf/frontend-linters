@@ -93,3 +93,6 @@ dist/**
 .changelog/
 
 # End of https://www.gitignore.io/api/node
+
+## Others
+.DS_Store
