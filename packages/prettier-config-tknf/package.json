@@ -1,7 +1,7 @@
 {
   "name": "@tknf/prettier-config",
   "description": "Prettier configuration for TKNF frontend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Tasuku Kuribayashi <kuribayashi@tknf.net>",
   "repository": {
     "url": "https://github.com/tknf/frontend-linters",
