@@ -1,5 +1,5 @@
 {
-  "name": "@tknf/eslint-config-typescript",
+  "name": "eslint-config-tknf-typescript",
   "description": "ESLint configuration for TKNF frontend with Typescript",
   "version": "1.0.0",
   "author": "Tasuku Kuribayashi <kuribayashi@tknf.net>",

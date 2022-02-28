@@ -1,5 +1,5 @@
 {
-  "name": "@tknf/perttier-config",
+  "name": "perttier-config-tknf",
   "description": "Prettier configuration for TKNF frontend",
   "version": "1.0.0",
   "author": "Tasuku Kuribayashi <kuribayashi@tknf.net>",
