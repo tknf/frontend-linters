@@ -1,6 +1,6 @@
 # @tknf/eslint-config-typescript
 
-Prettier configuration for Wantedly.
+Prettier configuration for TKNF.
 
 ## Usage
 
