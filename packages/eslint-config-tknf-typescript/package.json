@@ -36,7 +36,7 @@
     "eslint-plugin-react-hooks": "^4.3.0"
   },
   "devDependencies": {
-    "enhanced-resolve": "^5.9.1"
+    "enhanced-resolve": "^5.9.2"
   },
   "jest": {
     "resolver": "./export-maps-resolver.js"
