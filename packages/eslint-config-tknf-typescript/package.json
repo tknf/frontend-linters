@@ -32,7 +32,7 @@
     "eslint-plugin-react-hooks": "^4.6.0"
   },
   "devDependencies": {
-    "enhanced-resolve": "^5.9.1",
+    "enhanced-resolve": "^5.10.0",
     "typescript": "^4.6.4"
   },
   "jest": {
