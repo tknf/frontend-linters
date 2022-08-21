@@ -20,7 +20,7 @@
     "clean": "yarn lerna clean -y"
   },
   "devDependencies": {
-    "@types/eslint": "^8.4.1",
+    "@types/eslint": "^8.4.6",
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
     "lerna": "^4.0.0",
